@@ -1,0 +1,5 @@
+# Historias de Usuario
+
+1. **Rama:** `main`  
+   **Historia:** Como médico, quiero cargar un archivo CSV con datos de presión arterial de mis pacientes, para poder analizarlos fácilmente.
+
